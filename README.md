@@ -1,16 +1,20 @@
-# easymovies
+# Movie discovering App 
 
-A new Flutter project.
+A full movie discovering app with flutter and tmdb api
 
-## Getting Started
+# Youtube
+* Full Youtube tutorial is available at my channel: https://youtu.be/i0y4NNPZXMs
+## Features
 
-This project is a starting point for a Flutter application.
+* Users can discover a movie
+* Neat UI with a auto carousel slider
+* Users can also discover multiple categories , like action, romance,drama , comedy e.t.c
+* Users can search for a movie
+* Users can click on a movie for more details
+* Users can see the review count or similiar movies
+* Everything is realtime with streambuilder
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/Screenshot_1596968609.png" height=400em> <img src="screenshots/Screenshot_1596968617.png" height=400em> 
+<img src="screenshots/Screenshot_1596968624.png" height=400em> <img src="screenshots/Screenshot_1596968633.png" height=400em> 
+<img src="screenshots/Screenshot_1596968704.png" height=400em> 
